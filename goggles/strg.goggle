@@ -1,7 +1,7 @@
-! name:Strategy
-! description:FilteringInternationalRelationsnewsfromeveryperspective
-! public:false
-! author:BluSpy
+!name:Strategy
+!description:FilteringInternationalRelationsnewsfromeveryperspective
+!public:false
+!author:BluSpy
 
 $boost=3,site=eng.globalaffairs.ru
 $boost=3,site=chinadaily.com.cnworld
