@@ -3,6 +3,7 @@
 !public:false
 !author:BluSpy
 
+$discard
 $boost=4,site=eng.globalaffairs.ru
 $boost=4,site=chinadaily.com.cnworld
 $boost=4,site=iskran.ru
