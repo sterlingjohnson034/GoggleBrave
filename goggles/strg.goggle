@@ -5,7 +5,7 @@
 
 $discard
 $boost=4,site=rand.org
-$boost=4,site=http:understandingwar.org
+$boost=4,site=understandingwar.org
 $boost=4,site=global-strategy.org
 $boost=4,site=warontherocks.com
 $boost=4,site=belfercenter.org
@@ -50,5 +50,5 @@ $boost=4,site=carnegieendowment.org
 $boost=4,site=realcleardefense.com
 $boost=4,site=mwi.usma.edu
 $boost=4,site=fmso.tradoc.army.mil
-$boost=4,site=globalfirepower.com/
-$boost=4,site=oryxspioenkop.com/
+$boost=4,site=globalfirepower.com
+$boost=4,site=oryxspioenkop.com
