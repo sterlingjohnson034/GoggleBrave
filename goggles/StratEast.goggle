@@ -1,0 +1,10 @@
+!name:Strategy - East
+!description:Filtering Internationa lRelations news from almost every perspective
+!public:false
+!author:BluSpy
+
+$discard
+$boost=4,site=
+/?lang=en.$boost=3
+english/$boost=3
+
