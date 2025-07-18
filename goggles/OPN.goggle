@@ -1,0 +1,25 @@
+!name:Opinions
+!description: Opinions and Culture Articles
+!public:false
+!author:BluSpy
+
+$discard
+$boost=4,site=xibolete.org
+$boost=4,site=quillette.com
+$boost=4,site=unherd.com
+$boost=4,site=kalitribune.com
+$boost=4,site=eviemagazine.com
+$boost=4,site=openculture.com
+$boost=4,site=newcriterion.com
+$boost=4,site=aeon.co
+$boost=4,site=bigbrotherwatch.org.uk
+$boost=4,site=theimaginativeconservative.org
+$boost=4,site=spiked-online.com
+$boost=4,site=voegelinview.com
+$boost=4,site=firstthings.com
+$boost=4,site=acton.org
+$boost=4,site=legalinsurrection.com
+$boost=4,site=merionwest.com
+$boost=4,site=jbs.org
+$boost=4,site=cato.org
+$boost=4,site=rairfoundation.com
