@@ -1,5 +1,5 @@
 !name:Strategy - East
-!description:Filtering Internationa lRelations news from almost every perspective
+!description:Filtering International Relations news from pro-eastern perspective
 !public:false
 !author:BluSpy
 
@@ -7,4 +7,20 @@ $discard
 $boost=4,site=
 /?lang=en.$boost=3
 english/$boost=3
-
+$boost=4,site=https://tass.com/
+$boost=4,site=https://en.topwar.ru/
+$boost=4,site=https://strategic-culture.su/
+$boost=4,site=https://www.militarywatchmagazine.com/
+$boost=4,site=https://southfront.org/
+$boost=4,site=https://readovka.news/
+$boost=4,site=https://moderndiplomacy.eu/
+$boost=4,site=https://rahbord.csr.ir/?lang=en
+$boost=4,site=https://frqjournal.csr.ir/?lang=en
+$boost=4,site=https://iskran.ru/
+$boost=4,site=https://eng.globalaffairs.ru/
+$boost=4,site=https://www.chinadaily.com.cn/world
+$boost=4,site=https://valdaiclub.com/
+$boost=4,site=https://www.globaltimes.cn/
+$boost=4,site=https://www.ciis.org.cn/english/
+$boost=4,site=https://www.scmp.com/
+$boost=4,site=https://en.mehrnews.com/
