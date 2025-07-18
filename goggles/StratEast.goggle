@@ -1,11 +1,9 @@
-!name:Strategy - East
-!description:Filtering International Relations news from pro-eastern perspective
+!name:Strategy - Geral
+!description:Filtering Internationl Relations news from eastern perspective
 !public:false
 !author:BluSpy
 
 $discard
-/?lang=en.$boost=3
-english/$boost=3
 $boost=4,site=tass.com
 $boost=4,site=en.topwar.ru
 $boost=4,site=strategic-culture.su
@@ -20,6 +18,6 @@ $boost=4,site=eng.globalaffairs.ru
 $boost=4,site=chinadaily.com.cn
 $boost=4,site=valdaiclub.com
 $boost=4,site=globaltimes.cn
-$boost=4,site=ciis.org.cn/english
+$boost=4,site=ciis.org.cn
 $boost=4,site=scmp.com
 $boost=4,site=en.mehrnews.com
