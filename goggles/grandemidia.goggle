@@ -1,0 +1,26 @@
+!name:Mídia Nacional e Internacional  
+!description: Resultados priorizando veículos de imprensa brasileiros e estrangeiros, com diversidade de visões e graus de independência.  
+!public:false  
+!author:BluSpy  
+
+$discard  
+$boost=4,site=g1.globo.com  
+$boost=4,site=estadao.com.br  
+$boost=4,site=folha.uol.com.br  
+$boost=4,site=foreignpolicy.com  
+$boost=4,site=nytimes.com  
+$boost=4,site=br.sputniknews.com  
+$boost=4,site=poder360.com.br  
+$boost=4,site=oantagonista.com  
+$boost=4,site=rferl.org  
+$boost=4,site=pravda.com.ua  
+$boost=4,site=opindia.com  
+$boost=4,site=rfa.org  
+$boost=4,site=salon.com  
+$boost=4,site=unian.info  
+$boost=4,site=ukrinform.net  
+$boost=4,site=breitbart.com  
+$boost=4,site=dailywire.com  
+$boost=4,site=gazetadopovo.com.br  
+$boost=4,site=allyoucanread.com  
+$boost=4,site=abraji.org.br
