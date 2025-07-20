@@ -1,0 +1,26 @@
+!name:Fontes Governamentais e Doutrina Militar  
+!description: Publicações oficiais, manuais, think tanks estatais e dados de inteligência pública.  
+!public:false  
+!author:BluSpy  
+
+$discard  
+$boost=4,site=armypubs.army.mil  
+$boost=4,site=everyspec.com  
+$boost=4,site=awg.army.mil  
+$boost=4,site=community.apan.org  
+$boost=4,site=fmso.tradoc.army.mil  
+$boost=4,site=mwi.usma.edu  
+$boost=4,site=soc.mil  
+$boost=4,site=defenseone.com  
+$boost=4,site=csis.org  
+$boost=4,site=besacenter.org  
+$boost=4,site=atlanticcouncil.org  
+$boost=4,site=carnegieendowment.org  
+$boost=4,site=realcleardefense.com  
+$boost=4,site=intellibrary.libguides.com  
+$boost=4,site=rdl.train.army.mil  
+$boost=4,site=liberatedmanuals.com  
+$boost=4,site=militaryfieldmanuals.net  
+$boost=4,site=cia.gov  
+$boost=4,site=oe.tradoc.army.mil  
+$boost=4,site=hertogfoundation.org
