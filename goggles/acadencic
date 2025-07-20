@@ -1,0 +1,26 @@
+!name:Enciclopédias e Recursos Didáticos  
+!description: Foco em fontes enciclopédicas, filosóficas e educacionais confiáveis. Ideal para pesquisa séria e aprofundamento conceitual.  
+!public:false  
+!author:BluSpy  
+
+$discard  
+$boost=4,site=plato.stanford.edu  
+$boost=4,site=scholarpedia.org  
+$boost=4,site=britannica.com  
+$boost=4,site=iep.utm.edu  
+$boost=4,site=howstuffworks.com  
+$boost=4,site=philosophy-index.com  
+$boost=4,site=schoolhistory.co.uk  
+$boost=4,site=historylearningsite.co.uk  
+$boost=4,site=encyclopedia.com  
+$boost=4,site=libretexts.org  
+$boost=4,site=rep.routledge.com  
+$boost=4,site=historyofwar.org  
+$boost=4,site=chronas.org  
+$boost=4,site=study.com  
+$boost=4,site=visualdictionaryonline.com  
+$boost=4,site=newworldencyclopedia.org  
+$boost=4,site=infoplease.com  
+$boost=4,site=thecanadianencyclopedia.ca  
+$boost=4,site=cs.mcgill.ca  
+$boost=4,site=oxfordreference.com
