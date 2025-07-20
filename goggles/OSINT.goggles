@@ -1,0 +1,13 @@
+!name:OSINT e Inteligência Independente  
+!description: Foco em fontes confiáveis de inteligência aberta, investigações forenses, guerra de informação e análise cibernética.  
+!public:false  
+!author:BluSpy  
+
+$discard  
+$boost=4,site=treadstone71.com  
+$boost=4,site=cybershafarat.com  
+$boost=4,site=calibreobscura.com  
+$boost=4,site=informnapalm.org  
+$boost=4,site=bellingcat.com  
+$boost=4,site=sector035.nl  
+$boost=4,site=forensic-architecture.org
